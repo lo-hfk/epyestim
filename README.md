@@ -27,13 +27,13 @@ constant estimates on fixed arbitrary time intervals.
 ## How to install epyestim
 
 ```
-pip install git+https://github.com/...
+pip install git+git://github.com/lo-hfk/epyestim.git
 ```
 
 ## How to use epyestim
 
 Basic usage of the epyestim package applied to COVID-19 data is explained
-in the Jupyter tutorial notebook [link].
+in the [Jupyter tutorial notebook](notebooks/covid_tutorial.ipynb).
 
 The core functions relevant for users are:
 
